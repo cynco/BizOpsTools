@@ -1,0 +1,171 @@
+Gabriel Kreuther	Reservation Report
+
+Shift:	In-House Only 2
+Date Range:	11/16/2018 to 12/31/2019
+Sorted By:	Reservation Time, Guest Last Name
+Date:	Friday, 11/16/2018	Shift:	In-House Only 2	Cover Count:	18
+Notes/
+Time	#	Tbl	Last Name	First Name	St	Phone	Codes	Vis	Made	Company
+12:00 PM	3	73	Burkhardt	Thomas	S   	347.205.5747 	Business Lunch, No Celebration, No Restrictions 	1	11/15
+12:00 PM	2	61	Mercier	Alexandre	D   	347.949.1218 	out by 1. Knows will be abbreviated service. Works in the building. Just wants to pop in for quick lunch. CM 	3	11/16
+12:00 PM	2	64	Sweet	David	S   	212.478.0650 	10th visit No Celebration, No Restrictions PERSONAL : He is Genevieve Ko's Husband  (she is writing GK's cookbook) VISITS: 03.29.18  10.17.16 L (Rachel) 10.26.18 L (Andrea) LOUNGE 11.13.18 D (Mike) Alert Manager 	9	10/30
+12:00 PM	2	71	Tenzer	Gabrielle	D   	917.770.1979 	No Celebration, No Restrictions 	1	11/15
+1:00 PM	2	B1,B 	*Walk-In	 	S   	  	 	11/16
+1:15 PM	2	B10, 	*Walk-In	 	S   	  	 	11/16
+1:15 PM	2	61	*Walk-In	 	PS 	  	 	11/16
+1:15 PM	3	75,76	Zaidi	Dr. Qasim	S   	917.518.5849 	***Out by 2pm!   11.16 made res in MDR at 1:30 but called to adjust to lounge at 1:15 TM Web Reservation 	0	11/16
+
+Printed	11/16/2018   2:27 PM	* = Walk-In	Page	1	of	4
+Date:	Tuesday, 11/20/2018	Shift:	In-House Only 2	Cover Count:	18
+Notes/
+Time	#	Tbl	Last Name	First Name	St	Phone	Codes	Vis	Made	Company
+SERVICE: Tap water Drinks Gamay Loves chocolate tarte   PERSONAL : Professor at SUNY Opt.  Likes corner tables. LIKES TO HAVE DORADE AS PART OF BUSINESS LUNCH, OK PER SW Bar Reg   VISITS: 09.20.18 D Lounge (Andrea) 07.13.16 Bar Lunch (Artem)   FEEDBACK : 07.13.16 bar Lunch (Artem) Overall Experience= very good Memorable= great food, great service *** Would like the Dorade and Duck Confit added bar to Bar Lunch*** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Printed	11/16/2018   2:27 PM	* = Walk-In	Page	2	of	4
+Date:	Tuesday, 11/20/2018	Shift:	In-House Only 2	Cover Count:	2
+Notes/
+Time	#	Tbl	Last Name	First Name	St	Phone	Codes	Vis	Made	Company
+12:30 PM	2	63	Socha	Miles	NC 	212.256.8112 	No Celebration, No Restrictions PERSONAL : Editor in Chief for Women's Wear Daily magazine   VISITS: 06.11.18 L(Daniel) 05.25.18 L(Luis) 01.28.18 left Vm at 1:27 for 1pm res. NS. RD 01.12.18 Bar 	13	11/15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Printed	11/16/2018   2:27 PM	* = Walk-In	Page	3	of	4
+Date:	Friday, 11/30/2018	Shift:	In-House Only 2	Cover Count:	2
+Notes/
+Time	#	Tbl	Last Name	First Name	St	Phone	Codes	Vis	Made	Company
+12:30 PM	2	72	Socha	Miles	NC 	212.256.8112 	PERSONAL : Editor in Chief for Women's Wear Daily magazine   VISITS: 06.11.18 L(Daniel) 05.25.18 L(Luis) 01.28.18 left Vm at 1:27 for 1pm res. NS. RD 01.12.18 Bar 	13	11/07
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Printed	11/16/2018   2:27 PM	* = Walk-In	Page	4	of	4

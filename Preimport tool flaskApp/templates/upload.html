@@ -1,0 +1,21 @@
+<html>
+   <body>
+    <p>Upload .csv or .txt file to re-format</p>
+      <form action = "http://localhost:5000/uploader" method = "POST"
+         enctype = "multipart/form-data">
+         <input type = "file" name = "reservation_file" />
+         <input type = "submit"/>
+      </form>
+
+      <!-- This worked in giving two buttons but not good method. 
+        The name should match the argument in f = request.files['guestcenter_export_file'] 
+    in the uploader function-->
+      <!-- <p>Guestcenter Export</p>
+      <form action = "http://localhost:5000/uploader" method = "POST"
+         enctype = "multipart/form-data">
+         <input type = "file" name = "guestcenter_export_file" />
+         <input type = "submit"/>
+      </form> -->
+
+   </body>
+</html>

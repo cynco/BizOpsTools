@@ -1,0 +1,265 @@
+,date_booked,time_slot,num_seats,table_seated_at,last_name,first_name,status,phone_numbers,visit_notes
+0,07/17,11:45 AM,2,61,Christl,Joan,NC ,9257350201 , 
+1,07/08,11:45 AM,2,42,Sloan,Debbie,NC ,9254265541 , 
+2,07/14,12:00 PM,2,53,Berry,Meredith,NC ,9256403726 ,OpenTable VIP;   
+3,07/12,12:00 PM,2,54,Draa,Jennifer,NC ,9255188557 , 
+4,07/10,12:00 PM,2,44,Freed,Robert,NC ,9252447507 ,OpenTable VIP;   
+5,07/17,12:00 PM,2,33,Hitchcock,Josh,NC ,4154330901 , 
+6,07/11,12:00 PM,6,"71,72",Judd,Korey,C   ,5102424401 ,they would not like a conformation call 
+7,07/17,12:00 PM,2,25,Lewis,Beth,NC ,9252024996 , 
+8,07/09,12:00 PM,2,52,Olivier,Robin,NC ,5109091685 ,OpenTable VIP;   
+9,07/12,12:15 PM,4,22,Gomez,Dottie,NC ,5109094800 ,Request a table along windows behind receptionist/concierge  
+10,07/17,12:15 PM,3,11,Pond,Cindy,NC ,9259970778 , 
+11,07/11,12:15 PM,2,43,Siler,Gabriella,NC ,4157942842 , 
+12,07/10,12:30 PM,3,12,Beard,Anne,NC ,4107030440 ,Business meeting  
+13,07/16,12:30 PM,2,62,Guadagni,Patty,NC ,9254579689 , 
+14,07/17,12:30 PM,3,64,Omid,Mariam,NC ,9259457891 ,Quiet corner 
+15,07/17,1:00 PM,2,66,Furay,mike,NC ,5103261153 , 
+16,07/17,1:00 PM,4,41,Klebanov,Eugene,NC ,9256833955 , 
+17,07/12,1:00 PM,2,42,Manchik,Lyle,NC ,7608997681 ,OpenTable VIP;  One guest is allergic to gluten and canola oil. He's eaten there before and they've always been able to accommodate him.  
+18,07/16,5:00 PM,2,54,Hallenbeck,Everett,NC ,9258318119 , 
+19,07/14,5:00 PM,4,45,Roca,Debora,NC ,9254876150 ,(birthday)  
+20,07/10,5:30 PM,3,25,Freilicher,David,NC ,9257191948 , 
+21,07/16,5:30 PM,12,"34,35",Griffin,Matt,C   ,9252428583 , 
+22,07/17,5:30 PM,2,43,Mann,David,NC ,9254807598 ,Wed like to sit outside please. Thank you!  
+23,07/17,6:00 PM,6,63,Carlson,Dianne,C   ,9259847419 ,Husband's Birthday. Booth 63. Cap w/ chair if 6 people gluten 
+24,07/10,6:00 PM,2,42,Estanol,Rachael,NC ,5105936759 , 
+25,07/09,6:00 PM,4,61,Mayer,Carolyn,NC ,9259324059 , 
+26,07/15,6:00 PM,2,44,Nelson,Kathleen,NC ,9259630279 ,OpenTable VIP;   
+27,07/17,6:00 PM,3,41,Rubin,Judge Alice Fisher ,NC ,9177716258 ,OpenTable VIP;   
+28,07/12,6:30 PM,2,52,Austenfeld,Steve,NC ,5104997144 , 
+29,07/18,6:30 PM,3,65,Doyle,Caroline,NC ,7049655433 ,OpenTable VIP;   
+30,07/16,6:30 PM,3,46,Hanlon,john,NC ,8582432266 , 
+34,07/15,6:30 PM,3,66,Merrill,Linda,NC ,9258373387 ,table req  likes tables not booth 
+35,07/17,7:30 PM,2,42,Marchant,john,NC ,9259306022 , 
+39,06/01,11:30 AM,2,42,Wolf,charlene,NC ,9258953023 , 
+40,07/10,11:45 AM,3,25,Bowen,Sharron,NC ,5103337427 , 
+41,07/15,11:45 AM,2,43,Guidry,Gene,NC ,2817256935 ,(anniversary)  
+42,06/21,12:00 PM,2,52,Crane,Kelly,NC ,7079635096 ,OpenTable VIP; (business_meal)  
+43,07/12,12:00 PM,2,54,Farber,Bruce,NC ,9256832619 ,OpenTable VIP;   campers 
+44,07/16,12:00 PM,5,35,Mosley,Darlene,NC ,9256831630 , 
+45,07/16,12:00 PM,4,66,Nguyenhoang,Thuy,NC ,5103004572 ,(business_meal)  
+46,07/13,12:00 PM,3,45,Stroud,laurie,NC ,9252005314 ,Annas Birthday  
+47,07/17,12:00 PM,2,61,Vanbuskirk,Scot,NC ,9254044040 , 
+48,07/09,12:00 PM,2,44,Wetzel,Lori,NC ,9258729916 ,(business_meal) Hold reservation under GAURAV PASSI  
+49,07/16,12:15 PM,2,53,Okeefe,Marianne,NC ,9259894648 ,(birthday)  
+50,07/14,12:30 PM,5,63,Elmore,Heather,B/ ,9257368536 ,birthday wants 63!!!!! 
+51,07/15,1:00 PM,2,43,Pearl,Jeanne,NC ,9253243366 , 
+52,07/09,1:00 PM,2,42,Quan,Mimi,NC ,9256838585 ,Side table/booth is preferred due to a business lunch meeting.  
+53,07/15,5:00 PM,2,42,Prieto,Nickolas,NC ,6195649020 , 
+54,07/16,5:00 PM,9,"22,32",Rothman,Rebecca,NC ,5105175839 , 
+55,07/17,5:30 PM,3,51,Kennedy,Joseph,NC ,9259844868 ,OpenTable VIP;   
+56,07/15,5:30 PM,3,45,Weinmeiste R,Dave,NC ,2094852576 ,11 CAMPERS 4+ HOURS 
+57,06/05,6:00 PM,7,"21,30 ",Del Becarro,Ed,NC ,9253240088 , 
+58,07/14,6:00 PM,2,54,Murphy,Elizabeth,NC ,9259638626 , likes emilee 
+59,07/15,6:00 PM,3,62,Price,Lisa,NC ,9259637774 ,OpenTable VIP; (birthday) Matt's section please!  likes matt 
+60,05/24,6:00 PM,2,11,Vamdenbergh E,Ronald,NC ,9259803399 , 
+61,07/16,6:00 PM,4,46,Walsh,Brady,NC ,9252006647 , 
+62,07/09,6:30 PM,7,"71,72",Macmahon,Mark,NC ,9255883393 , 
+63,07/10,6:30 PM,2,42,Martin,Alayzia,NC ,7076313274 , 
+64,07/12,6:30 PM,5,63,Morgenioch,Jim,NC ,9255807733 ,wifes birthday 
+65,07/17,6:30 PM,3,65,Robertson,John,NC ,9252125691 ,booth in back 
+66,07/17,6:45 PM,3,61,Callahan,Georgia,NC ,9255751681 ,OpenTable VIP;   
+67,07/15,7:00 PM,4,41,Alioto,Michele,NC ,4153146500 ,OpenTable VIP;   
+68,07/11,7:00 PM,2,52,Hoppe,Nickie,NC ,9255195555 ,"booth    Tracy has credit card on file for this dinner, do not present check to table "
+69,07/13,7:00 PM,2,44,Sammon,Tom,NC ,9252857286 ,OpenTable VIP;   
+70,07/15,7:00 PM,4,25,Schwartz,Elliot,NC ,9255141076 , 
+74,07/07,11:30 AM,3,41,Tarabini,Albert,NC ,2098515205 ,OpenTable VIP;  85th Birthday Celebration  
+75,07/13,11:45 AM,3,25,Rupley,amy,NC ,9256830124 ,OpenTable VIP;   
+76,07/01,12:00 PM,2,42,Dechant,Paul,NC ,2095059862 ,(business_meal)  
+77,07/16,12:00 PM,4,66,Homertgen,Marc,NC ,5104101847 ,OpenTable VIP;   
+78,07/17,12:00 PM,2,53,Joshi,Rohita,NC ,7145144410 ,OpenTable VIP;   
+79,06/28,12:00 PM,2,52,Leroy,Janet,NC ,5108815685 ,(birthday)  
+80,07/09,12:00 PM,2,54,Schnidman,Howard,NC ,2037333376 ,OpenTable VIP; (anniversary) Quiet table away from the kitchen outside  
+81,07/17,12:00 PM,2,33,Wise,Ken,NC ,9257852469 ,women in wheelchaire needs table 
+82,07/14,12:15 PM,2,44,Bozzo,Ellen,NC ,5108166973 ,OpenTable VIP;   
+83,07/11,12:30 PM,3,61,Pierson,Marilyn,NC ,9258375630 ,"wants table in front room!!! likes tables not booths, prefers 21 "
+84,07/13,12:30 PM,8,"71,72",Sugimura,Linda,NC ,5103019357 , 
+85,07/14,12:30 PM,4,45,White,Debi,NC ,9257087523 ,OpenTable VIP;   
+86,07/17,1:00 PM,2,43,Seybold,Patrick,NC ,6502459227 ,(special_occasion)  
+87,07/17,1:30 PM,2,42,Northing,Richard,NC ,9252504576 ,OpenTable VIP; (business_meal)  
+88,07/05,5:30 PM,5,35,Oboyle,Maureen,NC ,5102096561 , 
+89,07/05,5:45 PM,8,"71,72",Bing,David,NC ,9255701110 , 
+90,07/16,6:00 PM,3,12,Hazen,Harry,NC ,9258585569 ,"(anniversary) booth please , Anniversary, Booth Requested "
+91,07/14,6:00 PM,3,11,Sanchez-peter Son,yolanda,NC ,9253528666 , 
+92,06/28,6:15 PM,5,63,Mei,Jane,NC ,5103617918 ,wants 63!!!!!!! anniversary 
+93,07/15,6:15 PM,2,42,Okamura,Tessie,NC ,9257855363 , 
+94,07/11,6:30 PM,3,25,Hui,Johnny,NC ,5103290662 ,(anniversary)  
+95,07/13,6:30 PM,3,46,Joseph,Robin,NC ,9254512158 ,OpenTable VIP;   
+96,06/28,6:30 PM,4,61,Lau,Winnie,NC ,9254877868 ,Celebrating Deb's birthday  
+97,07/17,6:30 PM,4,62,Mitchell,Karen,NC ,9256408801 , 
+98,07/17,6:30 PM,3,51,Reed,Tom,NC ,9256725364 , 
+99,07/16,6:45 PM,2,52,Strom,john,NC ,4086056095 , 
+100,07/15,7:00 PM,4,65,Levy,Jan,NC ,3108738266 ,OpenTable VIP;   
+101,07/13,7:00 PM,4,45,Saltzman,Ken,NC ,5104091419 , 
+102,07/17,7:15 PM,2,44,Leahy,Barbara,NC ,7176692090 , 
+103,07/14,7:30 PM,4,33,Fulop,Melissa,NC ,9257884178 ,OpenTable VIP;   
+104,07/16,8:00 PM,3,11,Bonacci,Dominic,NC ,9252026919 ,"OpenTable VIP;   regular/ likes booth.   if there is cake, hold at least 1 piece "
+105,07/17,8:30 PM,10,"71,72",Kautorov,Ilya,NC ,5103815552 ,fred approved 
+106,06/26,8:45 PM,2,12,Lopez,Mark,NC ,5102999999 ,Birthday for the wife 
+110,,510.299.9999 ,,,,,,nan,
+111,,NC ,Web Reservation ,,,,,nan,
+115,06/16,11:30 AM,3,25,Randolph,Linda,NC ,5107459318 , 
+116,07/16,12:00 PM,3,41,Estrada,Kathryn,NC ,4083169054 , 
+117,07/15,5:00 PM,3,61,Crosby,Nicole,NC ,5103363690 ,"Booth in the back, please.  "
+118,07/13,5:30 PM,4,12,Collins,Doug,NC ,9254870332 , 
+119,07/17,5:30 PM,4,64,Kaplan,Carol,NC ,9253551703 ,booth 64 with matt always sit at 64 
+120,07/16,5:30 PM,6,22,Kinnamann,Vicki,NC ,4088351619 ,father's 91st birthday 
+121,07/03,6:00 PM,4,25,Beeson,cheryl,NC ,9259182202 ,OpenTable VIP;   
+122,07/17,6:00 PM,2,54,Hermanson,Susan,NC ,9253212755 , 
+123,07/12,6:00 PM,4,45,Hwang,Warren,NC ,3107011447 ,OpenTable VIP;   
+124,07/14,6:00 PM,3,41,Kerstetter,Brad,NC ,5103254420 ,(birthday)  
+125,07/14,6:00 PM,4,33,Lamon,Lynn,NC ,9252164158 ,OpenTable VIP; (birthday) Colleens birthday dinner  
+126,07/06,6:00 PM,2,42,Maxwell,Sheri,NC ,9257858347 , 
+127,06/28,6:15 PM,6,35,Curtis,Bobbie jo ,NC ,9257185407 ,quiet area hard of hearing 
+128,07/15,6:15 PM,7,"71,72",Fingerut,Alison,NC ,5105089708 , 
+129,07/16,6:15 PM,4,51,Tobin,Alison,NC ,9256836744 ,OpenTable VIP;  Wed love a table in Matthews section. Thank you.  
+130,07/14,6:30 PM,4,11,Bellig,Charlie,NC ,4082341291 ,booth 11 likes booth 11 
+131,07/17,6:30 PM,2,44,Tucker,Dale,NC ,9257882172 ,OpenTable VIP;   
+132,07/17,6:45 PM,4,66,Fisch,Samantha,NC ,9255486514 ,moms 60th birthday 
+133,07/16,7:00 PM,4,65,Accardo,Jennifer,NC ,9257854958 , 
+134,07/17,7:00 PM,3,32,Braunstein,Betsy,NC ,5103163612 ,OpenTable VIP; (birthday)  
+135,07/02,7:00 PM,4,61,Doehrman,Andrea,NC ,9259634332 , 
+136,07/17,7:00 PM,4,46,Lawrence,Judy,NC ,9255481414 ,vegan 
+137,07/17,7:00 PM,4,62,Panovich,Maureen,NC ,2092472188 ,OpenTable VIP;   
+138,07/11,7:00 PM,2,52,Wille,Barbara,NC ,9259382834 ,OpenTable VIP;   
+139,07/15,8:15 PM,2,11,Arora,Vineet,NC ,4089309473 ,OpenTable VIP; (date)  
+143,07/16,11:30 AM,6,35,Block,Gene,NC ,9252017326 , 
+144,07/01,12:00 PM,3,25,Boyd,Liz,NC ,9258292226 ,celebration with besties 
+145,07/16,12:00 PM,4,41,Klink,Fred,NC ,5107014411 , 
+146,07/17,5:45 PM,2,52,Ford,Lyn,NC ,9256834315 ,"OpenTable VIP; (date) Could we have our regular table, the back corner booth by the window in the front room?  prefers booths likes 25; husband is bob "
+147,07/16,6:00 PM,3,25,Gilpin,Richard,NC ,9256831629 ,OpenTable VIP;   
+148,07/16,6:00 PM,4,66,Reigle,Dennis,NC ,8152366789 ,booth req 
+149,07/09,6:00 PM,4,61,Shaw,Robert,NC ,9254134559 , 
+150,07/17,6:15 PM,13,"30,34 ",Ayabe,Grace,NC ,4088888113 , 
+151,07/11,6:30 PM,2,42,Hilty-vance,Diana,NC ,9256830342 ,OpenTable VIP;   likes booth 46 
+152,07/17,6:30 PM,5,63,Leshinsky,Fima,NC ,9255704237 ,would like to go outside if possible  65th birthday 
+153,07/07,6:45 PM,9,"22,32",Britfech,Raquel,NC ,9513775661 ,Wants seperate checks 
+157,07/15,11:30 AM,2,52,Powell,Amy,NC ,9256400269 , 
+158,07/12,11:45 AM,2,42,Urban,John,NC ,9253238486 ,OpenTable VIP;   
+159,07/13,12:00 PM,6,35,Alturk,Cathy,NC ,9254981501 , 
+160,07/16,12:30 PM,2,44,Barbier,steve,NC ,9259899993 , 
+161,07/01,6:00 PM,4,61,Dimitri,Angie,NC ,9259847224 ,OpenTable VIP;   
+162,07/17,6:00 PM,6,35,Handy,Shannon,NC ,9258993692 ,"want to go outside, but 63 if not outside. birthday Birthday "
+163,07/12,6:00 PM,3,45,Lee,Tobias,NC ,5129130565 , 
+164,06/25,6:00 PM,3,25,Young,Rose,NC ,4158280825 ,"OpenTable VIP;  Lunches and dinners are usually with clients, please make every effort to seat in most desirable areas. Thank You.  "
+165,07/16,6:30 PM,2,42,Cooper,Tom,NC ,9254375291 ,(birthday)  
+166,07/02,6:30 PM,9,71,Meyer,Bruce,NC ,9257876424 ,Table 71. Waive corkage 
+167,07/17,7:00 PM,3,66,Smith,Liz,NC ,5103813957 ,Outdoor seating please  
+171,07/10,11:30 AM,10,"34,35",Cadungug,Chris,NC ,9252444611 ,needs to be out by 1pm let the server know!! 
+172,07/10,11:30 AM,4,25,Metz,Don and Jo,NC ,9257439752 ,"OpenTable VIP;   always likes 46 *black napkins on table before arrival (they will ask) like to stay 2+hours usually dine with the Paufflers, Karleene Paufler is allergic to pepper so No pepper on the table "
+173,07/16,11:45 AM,8,"71,72",Flowers,Ethan,NC ,9259738260 , 
+174,07/09,11:45 AM,4,61,Ross,Heidi,NC ,5103349472 , 
+175,07/17,12:00 PM,2,52,Kronenberg,Steve,NC ,4153362395 ,OpenTable VIP;   
+176,07/12,12:30 PM,2,42,Mena,Jason,NC ,7818018199 , 
+177,07/10,5:30 PM,3,61,Richards,Mark,NC ,9255483278 ,(birthday)  
+178,07/09,6:30 PM,7,"71,72",Pass,Christine,NC ,9253235709 , 
+179,07/16,7:00 PM,4,45,Atwal,Amrit,NC ,2098149993 ,birthday 
+180,07/14,7:00 PM,3,25,Muth,Dale,NC ,2094825815 ,(anniversary) 1 st anniversary  
+181,07/17,7:00 PM,4,66,Wright,Brina,NC ,9256407031 , 
+185,07/09,11:30 AM,10,"22,32",Lee,doris,NC ,4159877778 ,chevron 
+186,07/16,11:30 AM,2,42,Wiener,Debbie,NC ,9255800350 ,booth 51 
+187,07/09,12:00 PM,3,61,Barnes,Kathryn,NC ,5104350265 , 
+188,07/12,1:00 PM,6,35,Decker,Kevin,NC ,6504306878 ,parents meeting for the wedding... 
+189,06/11,5:00 PM,6,23,Orozco,Jessica,NC ,5172430779 ,business dinner 
+190,07/13,6:00 PM,8,"71,72",Cheung,Ray,NC ,6505158986 , 
+191,07/04,6:30 PM,2,42,Loberg,Robert,NC ,8053386423 ,(anniversary) We are celebrating our 20th Wedding Anniversary and are new to Danville.  
+192,07/10,7:00 PM,2,52,Decter,Marcaa,NC ,9258421773 , 
+193,07/11,7:00 PM,4,61,Leslie,Bob,NC ,5106545125 ,(birthday)  
+194,07/11,7:00 PM,3,25,Wienbeck,Kerri,NC ,2035058401 , 
+198,07/11,12:00 PM,2,42,Hinckley,james,NC ,4153149264 , 
+199,04/14,5:15 PM,4,61,Soucy,Lauren,NC ,9255774155 ,OpenTable VIP; (anniversary)  
+200,07/15,5:30 PM,4,25,Spranger,Vicky,NC ,9258909662 ,Request window or booth 
+201,07/09,6:00 PM,2,52,Gates,Duane,NC ,9258382993 ,(birthday)(date)(special_occasion) !  
+202,05/24,6:00 PM,2,66,Vandenberghe,Ronald,NC ,9259803399 ,NEVER seat with Mike P Likes #66 & 65 always notify fred when they are coming please ALWAYS GET THEM IN RC! make vor every thursday standing reservation 6pm 2 pple booth 66!!! 
+203,07/12,6:30 PM,2,44,Burger,Barbara,NC ,8328546614 , 
+204,07/07,7:00 PM,2,42,Gould,Marci,NC ,9252128808 ,(anniversary)  
+208,06/06,12:00 PM,3,61,Breiter,Andreas ,NC ,6502846289 , 
+209,07/13,12:00 PM,2,42,Kennedy,Joseph,NC ,9259844868 ,OpenTable VIP;   
+210,07/15,12:00 PM,4,25,Weinstein,Martin,NC ,4082990373 ,quiet table 
+211,05/20,1:00 PM,6,22,Practar,Cherry,NC ,9259895647 , 
+212,07/01,5:30 PM,4,61,Basile,Bob,NC ,9253826982 ,"OpenTable VIP;  We would like to request table #11 - the booth in the bar by the window. Thank you!  really friendly, noels friends, they like table 11... CAMPERS 3 hours Wifes name is Margie "
+213,07/16,5:30 PM,2,44,Soriano-hill,Grace,NC ,5102459823 ,OpenTable VIP;   
+214,07/11,6:00 PM,4,66,Morrish,Marilyn,NC ,9257080786 ,wants a quiet booth in a corner one women is 95 years old and they are celebrating the anniversary of her and her deceased husband 
+215,07/16,6:00 PM,2,52,Tucker,Dennis,NC ,5108461600 ,"OpenTable VIP;  We would appreciate a booth, please.  "
+216,07/15,6:15 PM,4,11,Weinmeiste R,Dave,NC ,2094852576 ,11 or patio CAMPERS 4+ HOURS 
+217,07/05,6:30 PM,4,45,Granger,Betsy,NC ,5103052023 ,OpenTable VIP;   
+218,07/16,6:30 PM,2,42,Nichols,Paula,NC ,9259328261 ,OpenTable VIP;   
+219,07/04,6:30 PM,4,25,Pellicci,Charles,NC ,5309498782 ,OpenTable VIP;   
+220,07/12,6:30 PM,5,63,So,Aileen,NC ,4155318524 ,(birthday) Celebrating Kame's birthday  
+221,07/02,6:45 PM,6,35,Swan,Moyra,NC ,9253620801 , 
+225,07/16,11:30 AM,4,41,Gard,Karen,NC ,9259641620 , 
+226,07/13,11:45 AM,4,25,Hoggard,Jack,NC ,9259842475 ,OpenTable VIP;   regular likes 11/12 chicken sandwich! 
+227,07/07,6:00 PM,2,52,Baker,Alex,NC ,9256219816 , 
+228,07/13,6:30 PM,4,61,Richardson,Christine,NC ,4159993554 ,OpenTable VIP;   likes 25 
+229,07/14,6:30 PM,2,44,Salzfass,Arthur,NC ,9259541817 ,"birthday,req 25 "
+230,07/01,7:00 PM,2,42,Cardinale,Joe,NC ,9259995042 ,OpenTable VIP;  Booth in the back please.  
+231,07/02,7:00 PM,2,54,Israel,Richard,NC ,9259632327 ,OpenTable VIP; (birthday)  
+232,07/16,7:00 PM,4,25,Millet,Michael,NC ,9254372850 , 
+233,07/17,7:45 PM,2,52,Desmond,Jean,NC ,3039293535 ,OpenTable VIP;  Booth in back room preferred please  husbands name is chuck! 
+237,07/09,11:30 AM,2,42,Wood,Cheryl,NC ,9257858402 , 
+238,02/10,5:15 PM,4,61,Loftus,Beth,NC ,9259890127 ,(birthday)  
+239,07/13,7:00 PM,2,42,Benscoter,joel,NC ,4084095635 , 
+243,07/10,11:30 AM,6,35,Tos,Rod,NC ,9258429395 , 
+244,06/28,6:00 PM,2,52,Clarke,Kate,NC ,2035246102 ,OpenTable VIP;   
+245,07/06,7:15 PM,2,42,Jay,Shal,NC ,9094556184 ,anniversary dinner  
+249,07/17,11:30 AM,3,45,Ellgis,Joanne,NC ,9258309758 , 
+250,07/10,11:30 AM,4,61,Paufler,Karlene,NC ,9258204332 ,"OpenTable VIP;  No pepper black, white, chili, paprika, jalapeno, bell, etc. No peanuts or peanut oil.  Tree nuts are ok.  table 46 is fav ... 61 if not available   she is allergic to pepper...please remove from table. campers   DOESNT LIKE 4   likes 61 when for 2 people like 46 when with 4   43 "
+251,07/17,12:00 PM,4,25,Payne,Cathy,NC ,9258994392 , 
+252,07/16,5:00 PM,3,66,Wang,Katherine,NC ,4158329236 , 
+253,07/16,6:30 PM,8,"34,35",Raab,Sharon,NC ,9253896086 ,8-10 people 
+254,06/26,6:30 PM,2,51,Salem,Lila,NC ,9258205037 ,"req matt don't move off of 51 Prefers full booth, booth 51!! Always seat at 51! "
+258,07/17,6:00 PM,3,25,Evanhoe,Michael,NC ,9256481144 ,OpenTable VIP;   
+259,07/10,7:00 PM,3,61,Tikoo,Nalin,NC ,6504914815 ,wifes birthday wants bottle of charles heidsick ion table before they sit down 
+263,07/17,12:00 PM,6,22,Morrissey,Mary,NC ,9258429472 , 
+264,07/09,5:30 PM,2,42,Klescewski,Kim,NC ,9253810274 ,OpenTable VIP; (anniversary)  
+265,05/24,6:00 PM,2,66,Vandenberghe,Ronald,NC ,9259803399 ,NEVER seat with Mike P Likes #66 & 65 always notify fred when they are coming please ALWAYS GET THEM IN RC! make vor every thursday standing reservation 6pm 2 pple booth 66!!! 
+266,07/17,6:30 PM,6,35,Hearn,Susanne,NC ,9256403901 , 
+270,07/12,12:00 PM,2,42,Miller,Sue,NC ,9258388666 ,OpenTable VIP;   
+271,07/09,1:45 PM,2,42,Delahaye,john,NC ,9255288623 ,OpenTable VIP;   
+272,06/27,6:30 PM,4,25,Xepoleas,Janet,NC ,9254134423 ,OpenTable VIP; (birthday) Please reserve booth in back room corner ... Thank you  
+273,06/28,7:00 PM,2,42,Davis,Fran,NC ,9255869515 ,(birthday) Celebrating my nephew's birthday who is visiting from NJ. He has seafood and nut allergies - important to please advise our server.  Prefer sitting in booth in back room if possible. LOVE this restaurant! Thank you!  
+274,06/24,7:00 PM,4,61,Kantor,Renee,NC ,5109080002 ,OpenTable VIP;  May we please have a quiet table or booth against window or wall?  Thank you! Renee  
+278,07/12,1:00 PM,4,25,Whitman,Cathy,NC ,4159908086 ,bday and patio 
+279,07/11,6:00 PM,6,22,Bradley,Bob,NC ,9258550726 , 
+280,07/17,6:00 PM,2,54,Morocco,Joe,NC ,5108514018 ,booth birthday 
+284,07/06,12:00 PM,7,"71,72",Ardley,Janice,NC ,4088361234 , 
+285,07/16,12:00 PM,2,42,Atkinson,colleen,NC ,9257082313 , 
+289,07/17,12:00 PM,4,61,Samson,DAVE,NC ,9258428849 ,OpenTable VIP;   
+290,07/03,12:30 PM,2,42,Lederer,Tom,NC ,5105288082 , 
+294,07/06,11:45 AM,3,61,Ninekirk,david,NC ,9256838568 , 
+295,06/14,6:30 PM,2,42,Oldani,James,B/ ,9258297799 ,"anniv, let randy know bride and groom "
+299,05/24,6:00 PM,2,66,Vandenberghe,Ronald,NC ,9259803399 ,NEVER seat with Mike P Likes #66 & 65 always notify fred when they are coming please ALWAYS GET THEM IN RC! make vor every thursday standing reservation 6pm 2 pple booth 66!!! 
+303,07/02,12:00 PM,4,61,Colby,Aaron,NC ,8186329396 , 
+307,07/02,12:00 PM,6,35,Cardoza,Diane,NC ,7074470792 ,going to stay for min 3 hours 
+308,06/08,6:15 PM,4,61,Scanlon,Barbara,NC ,9256836157 ,OpenTable VIP; (special_occasion)  
+309,07/10,6:30 PM,4,25,Payne,Steve,NC ,2097409100 ,OpenTable VIP;   
+313,06/28,5:30 PM,6,35,Kitchcuck,Carol,NC ,9253371809 ,quiet table in back 
+317,06/25,12:00 PM,2,42,Pelz,Monika,NC ,9255864729 ,OpenTable VIP;   
+318,07/02,7:00 PM,2,42,Durkin,Stephanie,NC ,5103647020 ,(anniversary)  
+322,06/29,11:45 AM,2,42,Ninekirk,david,NC ,9256838568 , 
+323,05/24,6:00 PM,2,66,Vandenberghe,Ronald,NC ,9259803399 ,NEVER seat with Mike P Likes #66 & 65 always notify fred when they are coming please ALWAYS GET THEM IN RC! make vor every thursday standing reservation 6pm 2 pple booth 66!!! 
+324,07/16,7:00 PM,3,61,Perry,dave,NC ,9259985169 , 
+328,07/09,11:30 AM,18,"22,23 ",Obrien,Kathy,NC ,9259983731 ,could be minus 2 or add two gave tracy email to talk about prefix menu 
+329,07/16,6:30 PM,3,61,Shafer,Irma,NC ,9256835255 ,OpenTable VIP; (birthday) Request a booth  
+333,07/17,11:30 AM,9,"22,32",Langer,Eric,NC ,9258423464 , 
+334,07/10,11:30 AM,4,61,Metz,Don and Jo,NC ,9257439752 ,"OpenTable VIP;   always likes 46 *black napkins on table before arrival (they will ask) like to stay 2+hours usually dine with the Paufflers, Karleene Paufler is allergic to pepper so No pepper on the table "
+338,07/13,6:00 PM,2,42,Clark,Kyle,NC ,9257887168 , 
+342,07/12,11:30 AM,5,63,Armanino,Matt,NC ,9253523139 , 
+343,07/10,11:30 AM,4,61,Paufler,Karlene,NC ,9258204332 ,"OpenTable VIP;  No pepper black, white, chili, paprika, jalapeno, bell, etc. No peanuts or peanut oil.  Tree nuts are ok.  table 46 is fav ... 61 if not available   she is allergic to pepper...please remove from table. campers   DOESNT LIKE 4   likes 61 when for 2 people like 46 when with 4   43 "
+347,07/08,7:45 PM,2,42,Hart,Tim,NC ,9255575155 ,(birthday)  
+351,07/09,7:00 PM,4,61,Lavey,Sean,NC ,4088885034 ,OpenTable VIP;  Your best table would be greatly appreciated :)  
+355,04/07,7:30 PM,7,"71,72",Weiner,Ira,NC ,9256837410 ,OpenTable VIP;   
+359,07/16,11:45 AM,2,42,Washington,Elisa,NC ,9257272767 , 
+363,07/06,6:00 PM,4,61,Kiefer,Delilah,NC ,9255867434 ,OpenTable VIP;   
+367,04/16,6:00 PM,12,"34,35",Benning,Shelly,NC ,5103685253 , 
+371,04/07,6:00 PM,8,"22,32",Webb,Jean,NC ,3035169650 , 
+372,12/28,7:30 PM,5,63,Nicholas,Warwik,NC ,9257850600 , 
+376,01/14,6:00 PM,6,22,Combel,Mimi,NC ,9256998317 ,table not booth!!! 
+377,07/13,6:00 PM,9,"23,33",Malakoff,Kathleen,NC ,5102094194 , 
+378,12/28,6:00 PM,2,66,Vandenberghe,Ronald,NC ,9259803399 ,booth 66 NEVER seat with Mike P Likes #66 & 65 always notify fred when they are coming please ALWAYS GET THEM IN RC! make vor every thursday standing reservation 6pm 2 pple booth 66!!! 
+379,12/31,6:30 PM,2,43,Dong,Deanna,NC ,4083244592 , 
+380,12/31,7:00 PM,2,42,Cox,Ken,NC ,9257351843 , 
+381,01/04,8:15 PM,4,11,Xepoleas,Janet,NC ,9254134423 ,OpenTable VIP;  Quiet booth in front dining room left corner  Thank you booth 25!!!  
+385,01/26,6:00 PM,4,61,Dempsey,Bill,NC ,9252160661 ,VIP. likes a booth.. prefers 64   ALWAYS SEAT AT 64 PLEASE!   wife is Cass 
+389,03/20,7:00 PM,2,66,Corey,Steven,NC ,5105898765 ,booth 66!!!! anniversary! made a year in advance so really hoping for 66 thery sat there last year on their anniversary 
