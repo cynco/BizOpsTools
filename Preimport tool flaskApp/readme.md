@@ -13,7 +13,7 @@ The webapp has to be re-launched after any changes to the code.
 
 ## Running webapp from Python Anywhere
 
-The file structure is the same. The name of the file with the main webapp code, such as "main.py," must match what was provided as part of the webapp path. The files have to be imported into the pythonanywhere.com directory for the webapp. 
+The file structure is the same. The name of the file with the main webapp code, such as "main.py," must match what was provided as part of the webapp path or in the import statement in the WSGI configuration file. The files have to be imported into the pythonanywhere.com directory for the webapp. 
 
 The webapp code has to be saved and re-loaded after any changes to the code (from the pythonanywhere webapp dashboard). 
 
